@@ -4687,3 +4687,21 @@ input, select, textarea {
 		}
 
 	}
+	.badges {
+		margin-top: 10px;
+	}
+	
+	.badge {
+		display: inline-block;
+		padding: 5px 10px;
+		margin-right: 5px;
+		background-color: #eee;
+		color: #333;
+		border-radius: 3px;
+		font-size: 0.9em;
+	}
+	
+	.badge:hover {
+		background-color: #ddd;
+	}
+	
